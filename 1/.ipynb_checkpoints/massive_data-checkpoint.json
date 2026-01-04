@@ -1,0 +1,26 @@
+{
+  "users": [
+    { "id": 1, "name": "User1", "friends": [2,3,4,5], "liked_pages": [101,102] },
+    { "id": 2, "name": "User2", "friends": [1,3,6], "liked_pages": [102,103] },
+    { "id": 3, "name": "User3", "friends": [1,2,4,7], "liked_pages": [101,104] },
+    { "id": 4, "name": "User4", "friends": [1,3,8,9], "liked_pages": [103,105] },
+    { "id": 5, "name": "User5", "friends": [1,6,10], "liked_pages": [101,106] },
+    { "id": 6, "name": "User6", "friends": [2,5,11], "liked_pages": [102,107] },
+    { "id": 7, "name": "User7", "friends": [3,12,13], "liked_pages": [104,108] },
+    { "id": 8, "name": "User8", "friends": [4,14,15], "liked_pages": [105,109] },
+    { "id": 9, "name": "User9", "friends": [4,16,17], "liked_pages": [106,110] },
+    { "id": 10, "name": "User10", "friends": [5,18,19], "liked_pages": [107,111] }
+  ],
+  "pages": [
+    { "id": 101, "name": "Python Developers" },
+    { "id": 102, "name": "Data Science Enthusiasts" },
+    { "id": 103, "name": "AI & ML Community" },
+    { "id": 104, "name": "Web Dev Hub" },
+    { "id": 105, "name": "Cloud Computing" },
+    { "id": 106, "name": "Cyber Security" },
+    { "id": 107, "name": "Blockchain Builders" },
+    { "id": 108, "name": "Open Source Lovers" },
+    { "id": 109, "name": "System Design" },
+    { "id": 110, "name": "DevOps Engineers" }
+  ]
+}
